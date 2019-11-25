@@ -1,4 +1,4 @@
-﻿// 汽车类【第1版】
+
 
 class Car {
 	private String name;	// 名称
